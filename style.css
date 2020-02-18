@@ -1,5 +1,5 @@
 .a{
-  /*background-image: url("flaming-titan.png");*/
+  /* background-image: url("binary-delusion.jpg"); */
   background-size: cover;
   background-attachment: fixed;
   font-family: new time roman;
@@ -21,7 +21,7 @@
 }
 
 .form-control{
-  /*background:transparent*/
+  background:transparent;
   border-radius: 0px;
   border: 0px;
   border-bottom: 1px solid white;
@@ -81,7 +81,7 @@
 }
 
 
-#type {
+#type{
     background: transparent;
     z-index: 1;
     color: #9bc400;
@@ -95,6 +95,6 @@
     overflow-x: hidden;
 }
 
-.Event1::before{
+/* .Event1::before{
     color: darkorange
-}
+} */
